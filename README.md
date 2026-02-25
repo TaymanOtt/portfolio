@@ -1,1 +1,1 @@
-This is my portfolio website. It's not mean to be very exciting. 
+This is my portfolio website. It's not meant to be very exciting. 
