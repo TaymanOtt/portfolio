@@ -1,0 +1,43 @@
+body {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    font-family: system-ui, sans-serif;
+    line-height: 1.6;
+    color: #111;
+    background: #fff;
+  }
+  
+  header h1 {
+    margin-bottom: 0;
+  }
+  
+  nav {
+    margin-top: 0.25rem;
+    margin-bottom: 2rem;
+    font-size: 0.9rem;
+  }
+  
+  h2 {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 0.25rem;
+    margin-top: 2rem;
+  }
+  
+  article {
+    margin-bottom: 1.5rem;
+  }
+  
+  ul {
+    padding-left: 1.25rem;
+  }
+  
+  a {
+    color: #0645ad;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
